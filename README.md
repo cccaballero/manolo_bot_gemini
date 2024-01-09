@@ -1,4 +1,4 @@
-# Telegram Chat Bot using OpenAI ChatGPT 
+# Telegram Chat Bot using Google Gemini Pro 
  
 This is an experimental Telegram chat bot that uses the Google Gemini Pro model to generate responses. With this bot, 
 you can have engaging and realistic conversations with an artificial intelligence model in chat groups. 
