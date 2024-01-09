@@ -1,0 +1,5 @@
+google-generativeai
+telebot
+python-dotenv
+pillow
+requests
